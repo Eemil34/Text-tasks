@@ -39,4 +39,18 @@ The Amazon Rainforest has a **hot and humid** tropical climate with:
 - 🌧 **Rainfall:** Exceeds **2,000 mm (79 inches)** annually, creating a lush, dense ecosystem.  
 - 💧 **Humidity:** Extremely high, often above **80%**, contributing to frequent rainfall and misty conditions.  
 
-This unique climate supports one of the most diverse ecosystems on Earth, making it a **vital global resource**. 🌿🌎  
+### **3. Flora and Fauna**
+
+- **What types of trees are iconic in the Amazon Rainforest?**
+    - List the trees mentioned (e.g., kapok tree, Brazil nut tree) using bullet points.
+- **What animals are found in the Amazon Rainforest?**
+    - List some examples of mammals, birds, reptiles, and insects found in the rainforest.
+- **How many species live in the Amazon?**
+    - Include an estimate of species (e.g., 10% of the world's species). Use **bold** formatting for key numbers.
+
+| Animal         | Type       | Location           |
+|----------------|------------|--------------------|
+| Jaguar         | Mammal     | Amazon Rainforest  |
+| Macaw          | Bird       | South America      |
+| Anaconda       | Reptile    | Amazon River       |
+| Sloth          | Mammal     | Rainforest Canopy  |
